@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DataSources">
+      <UniqueIdentifier>{23915563-54de-423a-aee6-1e7306d80a75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Form12.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="form22.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="formCad3.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Login2.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="opcoes2.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="SensRf2.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Form13.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="form23.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="formCad4.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Login3.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="opcoes3.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="SensRf3.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Form14.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="form24.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="formCad5.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Login4.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="opcoes4.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="SensRf4.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="formCad6.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Form16.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="form26.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="formCad9.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="Login6.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="opcoes6.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="SensRf6.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Intersect RFID.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="form2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="formCad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SensRf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcoes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cargaCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pesquisar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cancelar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="contabilidade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="editCad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="form2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="formCad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SensRf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="opcoes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cargaCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pesquisar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cancelar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="contabilidade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="editCad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCad.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opcoes.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SensRf.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cargaCard.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consulta.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesquisar.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contabilidade.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
