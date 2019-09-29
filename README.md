@@ -1,5 +1,4 @@
 # intersectRFID
 projeto no visual studio c/c++ feito por: Iury Coelho
-interface gráfico em visual studio para o gerenciamento de aplicações com cartão RFID
-
-projeto: https://www.youtube.com/watch?v=tXkgppzjxtM
+implementação interface gráfico e comunicação serial com hardware rfid com visual studio C/C++ 
+video do projeto: https://www.youtube.com/watch?v=tXkgppzjxtM
